@@ -1,0 +1,1 @@
+Projeyi Colab'da çalıştırmak için files kısmına veri seti klasörü oluşturup (skin-cancer9-classesisic), ardından da bu klasör içine veri seti dosyalarını yüklemeniz gerekmektedir.
